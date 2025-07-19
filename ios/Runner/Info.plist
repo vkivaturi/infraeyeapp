@@ -45,5 +45,13 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to take photos of infrastructure issues for reporting.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs photo library access to select photos of infrastructure issues for reporting.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs location access to automatically detect where infrastructure issues are located for accurate reporting.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app needs location access to automatically detect where infrastructure issues are located for accurate reporting.</string>
 </dict>
 </plist>
