@@ -43,3 +43,28 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Other files
+image.png
+
+# Generated plugin files
+**/generated_plugin_registrant.*
+**/generated_plugins.cmake
+
+# iOS/macOS generated files
+ios/Podfile
+ios/Podfile.lock
+macos/Podfile
+ios/Flutter/
+macos/Flutter/
+ios/Runner.xcodeproj/
+ios/Runner.xcworkspace/
+macos/Runner.xcodeproj/
+macos/Runner.xcworkspace/
+
+# Windows/Linux generated files
+windows/flutter/
+linux/flutter/
+
+# Pub lock file (optional - some prefer to commit this)
+pubspec.lock
